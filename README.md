@@ -1,5 +1,16 @@
-# Actividad-1-POO
+# Actividad #1 Programacion Orientada a Objetos
+
+Esta actividad corresponde a la primera entrega del curso
+
+
+## Institución
 Universidad Nacional de Colombia, Sede Medellín
-Actividad #1 Programación Orientada a Objetos
-Estudiante: Samuel Cano Bedoya
-Profesor: Walter Hugo Arboleda Mazo
+
+## Nombre de la actividad
+
+Actividad #1 Programacion Orientada a Objetos (2026-2S)
+
+## Estudiante
+Samuel Cano Bedoya
+## Docente a cargo
+Walter Hugo Arboleda Mazo
