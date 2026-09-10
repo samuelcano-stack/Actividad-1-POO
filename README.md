@@ -1,3 +1,10 @@
+![App Screenshot](https://dummyimage.com/468x300?text=App+Screenshot+Here)
+
+
+# Solución
+[PDF]()
+
+
 # Actividad #1 Programacion Orientada a Objetos
 
 Esta actividad corresponde a la primera entrega del curso
