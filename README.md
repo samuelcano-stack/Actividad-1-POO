@@ -6,7 +6,7 @@ Esta actividad corresponde a la primera entrega del curso de POO (grupo 3)
 
 
 # Solución
-Si desea ver el documento completo presione "more pages" en la parte inferior o descargue el archivo
+Si desea ver el documento completo presione "More Pages" en la parte inferior o descargue el archivo
 
 [PDF](Documento.pdf)
 
