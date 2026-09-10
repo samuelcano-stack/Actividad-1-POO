@@ -1,4 +1,4 @@
-![App Screenshot](Logo Unal.svg.webp)
+![App Screenshot](LogoUNAL.svg.webp)
 
 
 # Solución
