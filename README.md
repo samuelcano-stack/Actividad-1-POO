@@ -1,4 +1,4 @@
-![App Screenshot](LogoUNAL.svg.webp)
+![App Screenshot](LogosimboloUNAL.jpg)
 
 # Actividad #1 Programacion Orientada a Objetos
 
