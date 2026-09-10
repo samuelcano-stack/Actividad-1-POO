@@ -2,7 +2,7 @@
 
 # Actividad #1 Programacion Orientada a Objetos
 
-Esta actividad corresponde a la primera entrega del curso
+Esta actividad corresponde a la primera entrega del curso de POO (grupo 3)
 
 
 # Solución
