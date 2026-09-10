@@ -1,14 +1,12 @@
 ![App Screenshot](LogoUNAL.svg.webp)
 
-
-# Solución
-[PDF](Documento.pdf)
-
-
 # Actividad #1 Programacion Orientada a Objetos
 
 Esta actividad corresponde a la primera entrega del curso
 
+
+# Solución
+[PDF](Documento.pdf)
 
 ## Institución
 Universidad Nacional de Colombia, Sede Medellín
